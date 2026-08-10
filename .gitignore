@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+
+# 원시 데이터는 재배포하지 않는다 (data/README.md 의 절차대로 각자 내려받을 것)
+data/raw/
